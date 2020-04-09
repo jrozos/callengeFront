@@ -3,7 +3,7 @@
 }
 
 body{
-    background-image: url("../img/bkg3.jpg");
+    background-image: url("../img/bkg5.jpg");
     background-repeat: no-repeat;
     max-width: 100%;
     min-height:1200px;
@@ -50,6 +50,6 @@ body{
 
 @media screen and (max-width: 1025px) {
     .text2 {
-        margin-left: 31px;
+        margin-left: 15px;
     }
 }
